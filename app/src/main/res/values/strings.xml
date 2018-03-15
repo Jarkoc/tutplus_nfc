@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tutplus_nfc</string>
+    <string name="explanation">NFC is enabled</string>
+                                                        <!-- in case nfc is disabled
+                                                           mTextView.setText(R.string.explanation);
+                                                        -->
+</resources>
